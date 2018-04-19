@@ -1,3 +1,7 @@
 
 *.cbp
 01-Adicion/obj/Debug/main.o
+*.depend
+02-EjemplosdeTiposdeDatos/02-EjemplosdeTiposdeDatos.layout
+02-EjemplosdeTiposdeDatos/obj/Debug/main.o
+02-EjemplosdeTiposdeDatos/bin/Debug/02-EjemplosdeTiposdeDatos.exe
