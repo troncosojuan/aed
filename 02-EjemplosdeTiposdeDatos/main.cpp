@@ -5,21 +5,24 @@ vistos en clases.*/
 using namespace std;
 
 
-int main()
+    int main()
 {
 
+    int var1 = 265;
+    bool var2 = false;
+    char var3 = 'b' ;
+    string var4 = "tomate";
+    unsigned var5 = -52;
+    double var6 = 26.33;
 
-   assert (true == 0 && "int 253  -  double 233.255  -  char a  -  bool false");
+    assert(var1==265);
+    assert(var2<true);
+    assert(var3!='c');
+    assert(var4+"tabaco " == "tomatetabaco");
+    assert(var5*-1== 52);
+    assert(var6-00.33 <= 26);
 
 
-    /*
-    int a = 2.000;
-    double b = 4252.257423;
-    char c = 'a';
-    bool d = false;
-    cout << ("a continuacion mostraremos los tipos de datos que puede tener una variable\n");
-    cout << ("\n\t") << a << ("\n\t") << b << ("\n\t") << c << ("\n\t") << d;
-    */
 
 
 }
