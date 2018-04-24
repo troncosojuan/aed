@@ -20,4 +20,4 @@ Declaro entero a, entero b
 <br>
 
 **Representacion Visual:**
-[![Visual](Representacion visual.jpg)]
+[![Visual](C:\Users\LOCOASTECA\Desktop\UTN SISTEMAS\PROGRAMACION JT\aed\01-Adicion\Representacion visual.jpg)]
